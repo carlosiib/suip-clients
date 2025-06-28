@@ -1,4 +1,4 @@
-import { db } from "@/app/db/drizzle";
+//import { db } from "@/app/db/drizzle";
 
 export async function GET() {
 //   const res = await db.execute('select 1');
